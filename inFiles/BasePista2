@@ -1,0 +1,8 @@
+C 1 1 arancione 1
+C 2 2 blu 1
+C 3 1 blu 1
+C 5 2 arancione 1
+C 5 3 blu 1
+C 5 4 rosso 1
+C 6 3 rosso 1
+t 1 1 NE,SS
